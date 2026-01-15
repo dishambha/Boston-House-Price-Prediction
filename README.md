@@ -33,9 +33,9 @@ It applies **Linear Regression** and explores relationships between housing feat
 
 ## 📂 File Structure
 - Boston-House-Price-Prediction/
-- │── Bosten_House_Price_Prediction.ipynb
-- │──BostenHousing.csv
-- │── README.md
+│── Bosten_House_Price_Prediction.ipynb
+│──BostenHousing.csv
+│── README.md
 
 
 ## 👤 Author
